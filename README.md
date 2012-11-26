@@ -1,4 +1,6 @@
 ZoomTool
 ========
 
-image loupe in jQuery
+A simple image loupe in jQuery.
+
+Documentation coming soon.
